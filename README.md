@@ -53,6 +53,7 @@ pip install numpy pillow pandas
  ## 📌 Notes
  - This project was created purely for educational purposes and is not intended for further development.
  - Future versions may integrate real-time data (e.g., traffic conditions) for more realistic simulations.
+- **Currently, the program interface is in Persian. An English version will be added in the future.**
 
 ## 👥 Contributors
 - Mahsan Mohammadzadeh Soltanmoradi
