@@ -3,7 +3,7 @@ A Python project simulating the pathfinding component of a warehouse robot (prac
 
 # Warehouse Robot Pathfinding Simulator
 
-This project was originally developed during my early high school years as a practice project.  
+This project was originally developed during my early middle school years as a practice project.  
 It is written in Python and simulates the pathfinding system of a warehouse robot. The idea was to design a software that serves as the "eyes" of the robot, helping it navigate efficiently inside a warehouse or between stores.
 
 ---
@@ -56,5 +56,5 @@ pip install numpy pillow pandas
 - **Currently, the program interface is in Persian. An English version will be added in the future.**
 
 ## 👥 Contributors
-- Mahsan Mohammadzadeh Soltanmoradi
-- Fateme Mostafavi
+- [Mahsan Mohammadzadeh Soltanmoradi] (https://github.com/MahsanMS)
+- [Fateme Mostafavi] (https://github.com/AMFM)
